@@ -1,6 +1,6 @@
 # **FlexBioNeuro Project**
 
-Welcome to the FlexBioNeuro project repository! This project is part of a funded initiative aimed at optimizing the analysis of state parameters within biogas plants, specifically focusing on the anaerobic digestion process in fermenters.
+Welcome to the FlexBioNeuro project repository! This funded project aim at optimizing the analysis of state parameters within biogas plants, specifically focusing on the anaerobic digestion process in fermenters.
 
 ## Background
 
