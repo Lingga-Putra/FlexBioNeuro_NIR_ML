@@ -22,6 +22,4 @@ The goal of the FlexBioNeuro project is to leverage the insights from literature
 
 **Note:** The training process may be time-intensive, as it was conducted on a Linux cluster over a duration of 72-96 hours.
 
-For a more detailed explanation of the project, please refer to the [link].
-
 We hope this repository contributes to advancements in real-time monitoring and optimization of biogas plant processes. Feel free to explore and contribute!
