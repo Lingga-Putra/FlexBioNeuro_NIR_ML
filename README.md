@@ -22,4 +22,14 @@ The goal of the FlexBioNeuro project is to leverage the insights from literature
 
 **Note:** The training process may be time-intensive, as it was conducted on a Linux cluster over a duration of 72-96 hours.
 
+## Hardware Components
+
+Hardware.txt: This file lists all the NIR-sensors required for the project.
+
+## 3D Schematics
+
+3D Schematics Directory: This directory contains all the developed and 3D printed components used in this project. The 3D designs are provided in both STEP and STL formats, allowing for easy constumization and direct 3D printing of the constructions developed.
+
+## Contribution
+
 We hope this repository contributes to advancements in real-time monitoring and optimization of biogas plant processes. Feel free to explore and contribute!
